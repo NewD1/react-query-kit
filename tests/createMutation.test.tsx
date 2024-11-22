@@ -1,4 +1,4 @@
-import { type MutationKey } from '@tanstack/react-query'
+import { type MutationKey } from '@tanstack/react-query5'
 
 import { createMutation } from '../src/createMutation'
 

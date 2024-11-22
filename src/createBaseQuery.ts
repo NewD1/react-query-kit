@@ -3,7 +3,7 @@ import {
   type QueryFunctionContext,
   type UseBaseQueryOptions,
   type UseInfiniteQueryOptions,
-} from '@tanstack/react-query'
+} from '@tanstack/react-query5'
 
 import { ReactQuery, getKey as getFullKey, withMiddleware } from './utils'
 

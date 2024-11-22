@@ -1,4 +1,4 @@
-import { QueryClient, skipToken } from '@tanstack/react-query'
+import { QueryClient, skipToken } from '@tanstack/react-query5'
 import '@testing-library/jest-dom'
 import { fireEvent, waitFor } from '@testing-library/react'
 import * as React from 'react'

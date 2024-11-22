@@ -1,4 +1,4 @@
-import { QueryKey } from '@tanstack/react-query'
+import { QueryKey } from '@tanstack/react-query5'
 
 import { createInfiniteQuery } from './createInfiniteQuery'
 import { createMutation } from './createMutation'

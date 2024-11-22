@@ -23,9 +23,9 @@ export default function rollup() {
   const options = {
     input: 'src/index.ts',
     jsName: 'ReactQueryKit',
-    external: ['@tanstack/react-query'],
+    external: ['@tanstack/react-query5'],
     globals: {
-      '@tanstack/react-query': 'ReactQuery',
+      '@tanstack/react-query5': 'ReactQuery',
     },
   }
 

@@ -1,5 +1,5 @@
-import * as TanstackReactQuery from '@tanstack/react-query'
-import type { Query, QueryClient, QueryKey } from '@tanstack/react-query'
+import * as TanstackReactQuery from '@tanstack/react-query5'
+import type { Query, QueryClient, QueryKey } from '@tanstack/react-query5'
 
 import type { Middleware } from './types'
 
